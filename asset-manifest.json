@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.557338cc.css",
-    "main.js": "/static/js/main.14e5c987.js",
+    "main.js": "/static/js/main.703b961b.js",
     "static/media/top-banner-bg.svg": "/static/media/top-banner-bg.5872ba1ff3e427742299c00b5cbb7b3e.svg",
     "static/media/cellphone-inner.png": "/static/media/cellphone-inner.95b68cfbf2de78ce28be.png",
     "static/media/Spoqa-Han-Sans-Neo-Light.woff": "/static/media/Spoqa-Han-Sans-Neo-Light.9a9ec0fef7c986c231c6.woff",
@@ -38,10 +38,10 @@
     "static/media/pub-right.svg": "/static/media/pub-right.47786eee0c4a4b6bc782b08613e5ed3c.svg",
     "static/media/pub-bold-right.svg": "/static/media/pub-bold-right.a47b8ff68c79c153b81d2c4710d5700c.svg",
     "main.557338cc.css.map": "/static/css/main.557338cc.css.map",
-    "main.14e5c987.js.map": "/static/js/main.14e5c987.js.map"
+    "main.703b961b.js.map": "/static/js/main.703b961b.js.map"
   },
   "entrypoints": [
     "static/css/main.557338cc.css",
-    "static/js/main.14e5c987.js"
+    "static/js/main.703b961b.js"
   ]
 }
